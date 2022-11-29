@@ -10,8 +10,7 @@ Under development: It is a modification of an existing component, but it has nev
  
 | Part | Qty | Sourcing | Description/Note |
 |---------|-------|----------------| ------------------ |
-| din_rail_mount_a | 1 | Print part([STEP](./CAD/din_rail_mount_a.step) or [STL](./STLs/din_rail_mount_a.stl)) |  |
-| din_rail_mount_b | 1 | Print part([STEP](./CAD/din_rail_mount_b.step) or [STL](./STLs/din_rail_mount_b.stl)) |  |
+| din_rail_mount_x2 | 2 | Print part([STEP](./CAD/din_rail_mount_x2.step) or [STL](./STLs/din_rail_mount_x2.stl)) |  |
 | SHCS M3x** | 2 | Local store | Length are TBD. |
 | M3 Roll-in T-Nut | 2 | [AliExpress](https://www.aliexpress.com/item/32805163712.html) |  |
 | SB2040 Cable-harness <br> or <br> 2-wire 18AWG Robot Cable(3 meter) + 2-wire AWG22 Robot Cable(3 meter) | 1 | [AliExpress](https://www.aliexpress.com/item/1005004819126687.html) <br> or <br> [Misumi(AWG18)](https://jp.misumi-ec.com/vona2/detail/222000262826/?HissuCode=%EF%BE%9B%EF%BE%8E%EF%BE%9E%EF%BE%84%EF%BD%AF%EF%BE%8C%EF%BE%9FDPC3+AWG18X2C-3) + <br> [Misumi(AWG22)](https://jp.misumi-ec.com/vona2/detail/222000262826/?HissuCode=%EF%BE%9B%EF%BE%8E%EF%BE%9E%EF%BE%84%EF%BD%AF%EF%BE%8C%EF%BE%9FDPC3+AWG22X2C-3)| Length are TBD. See [Cable Processing](./Docs/cable_processing.md) |
