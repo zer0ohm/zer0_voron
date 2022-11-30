@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "D2F")(type "KiCad")(uri "${KIPRJMOD}/footprint/D2F.pretty")(options "")(descr ""))
+)
