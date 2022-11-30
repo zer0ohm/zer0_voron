@@ -24,18 +24,18 @@ Under development: It is a modification of an existing component, but it has nev
 
 | Part | Qty | Sourcing | Description/Note |
 |---------|-------|----------------| ------------------ |
-| 2020Frame Corner Bracket 18mmWide | 12 | Print part([STEP](./CAD/2020_CornerBracket_18mm.step) or [STL](./STLs/2020_CornerBracket_18mm.stl)) ||
+| 2020Frame Corner Bracket 18mmWide | 12 | Print part([STEP](./CAD/2020_CornerBracket_18mm_x12.step) or [STL](./STLs/2020_CornerBracket_18mm_x12.stl)) ||
 | SHCS M5x10 | 24 | Local store |  |
 | M5 Roll-in T-Nut | 24 | [AliExpress](https://www.aliexpress.com/item/32805163712.html) |  |
-| z_belt_cover_a_x2 | 2 | Print part([STEP](./CAD/z_belt_cover_a_x2.step) or [STL](./STLs/z_belt_cover_a_x2.stl)) | Use existing screws and nuts for mounting. |
-| z_belt_cover_b_x2 | 2 | Print part([STEP](./CAD/z_belt_cover_b_x2.step) or [STL](./STLs/z_belt_cover_b_x2.stl)) | Use existing screws and nuts for mounting. |
+| z_belt_cover_a_x2 | 2 | Print part([STEP](./CAD/z_belt_cover_a_x2_mod.step) or [STL](./STLs/z_belt_cover_a_x2_mod.stl)) | Use existing screws and nuts for mounting. |
+| z_belt_cover_b_x2 | 2 | Print part([STEP](./CAD/z_belt_cover_b_x2_mod.step) or [STL](./STLs/z_belt_cover_b_x2_mod.stl)) | Use existing screws and nuts for mounting. |
 
 ### XYEndstop PCB for X_Carriage
  * Endstop PCB utilizing the switch mounting holes on the back side of X_Carriage 
 
 | Part | Qty | Sourcing | Description/Note |
 |---------|-------|----------------| ------------------ |
-| Endstop PCB | 1 | order PCB yourself([KiCad](./)) or [Single item PCB from me](https://zer0ohm.booth.pm/) ||
+| Endstop PCB | 1 | order PCB yourself([KiCad](./KiCad/V2-X_carriage_XYEndSW)) or [Single item PCB from me](https://zer0ohm.booth.pm/) ||
 | Self-tapping screw M2x12 or M2x14 | 2 | Local store or [AliExpress](https://www.aliexpress.com/item/1005002306042593.html) | PCB mount screw |
 | D2F-L3-A1 microswitch | 1 | Digikey or Mouser or Local store | X Endstop |
 | D2F-L3 microswitch | 1 | Digikey or Mouser or Local store | Y Endstop |
